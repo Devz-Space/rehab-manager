@@ -1,3 +1,4 @@
 function multiply(element) {
-  return element * 2;
+  const double = element * element;
+  return double * 2;
 }
